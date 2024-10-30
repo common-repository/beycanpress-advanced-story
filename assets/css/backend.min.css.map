@@ -1,0 +1,1 @@
+{"version":3,"sources":["backend.scss"],"names":[],"mappings":"AAAA,2C,CAEQ,wB,CACA,iB,CACA,iB","file":"backend.min.css","sourcesContent":[".bpstory-container {\r\n    #story_box_image_preview {\r\n        border: 2px solid #525252;\r\n        border-radius: 50%;\r\n        margin-right: 10px;\r\n    }\r\n}"]}

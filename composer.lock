@@ -1,0 +1,72 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
+        "This file is @generated automatically"
+    ],
+    "content-hash": "4b23418c1cd435e9b81664b1a0818a5c",
+    "packages": [
+        {
+            "name": "beycan/wordpress-table-creator",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/BeycanDeveloper/wordpress-table-creator.git",
+                "reference": "39b6af6cd19cf2da36ca94967a71c7d5b350a5a7"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/BeycanDeveloper/wordpress-table-creator/zipball/39b6af6cd19cf2da36ca94967a71c7d5b350a5a7",
+                "reference": "39b6af6cd19cf2da36ca94967a71c7d5b350a5a7",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=7.3"
+            },
+            "default-branch": true,
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "Beycan\\WordPressTableCreator\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-3.0"
+            ],
+            "authors": [
+                {
+                    "name": "Halil Beycan",
+                    "email": "halilbeycan0@gmail.com"
+                }
+            ],
+            "description": "Create tables for WordPress very easily.",
+            "homepage": "https://github.com/BeycanDeveloper/wordpress-table-creator",
+            "keywords": [
+                "WP_List_Table",
+                "builder",
+                "creator",
+                "examples",
+                "table",
+                "wordpress",
+                "wp-list-table"
+            ],
+            "support": {
+                "issues": "https://github.com/BeycanDeveloper/wordpress-table-creator/issues",
+                "source": "https://github.com/BeycanDeveloper/wordpress-table-creator/tree/master"
+            },
+            "time": "2021-07-20T19:58:48+00:00"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "beycan/wordpress-table-creator": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": [],
+    "plugin-api-version": "2.0.0"
+}

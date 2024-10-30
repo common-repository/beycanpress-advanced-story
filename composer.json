@@ -1,0 +1,20 @@
+{
+    "name": "beycanpress/bpstory",
+    "description": "Instagram style stories for WordPress",
+    "type": "project",
+    "authors": [
+        {
+            "name": "BeycanPress",
+            "email": "contact@beycanpress.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "beycan/wordpress-table-creator": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "BeycanPress\\Story\\": "classes"
+        }
+    }
+}
